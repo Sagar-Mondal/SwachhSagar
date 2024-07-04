@@ -32,13 +32,13 @@ def main():
         st.title('🌊 Swachh Sagar')
         st.image('./assets/yacht.jpg')
         st.markdown(
-            'Swachh Sagar is a project that addresses the issue of growing underwater waste in oceans and '
+            'Swachh Sagar is a project made by Sagar Mondal that addresses the issue of growing underwater waste in oceans and '
             'seas. It offers three solutions: YoloV8 Algorithm-based underwater waste detection, a rule-based '
             'classifier for aquatic life habitat assessment, and a Machine Learning model for water '
             'classification as fit for drinking or irrigation or not fit. The first model was trained on a '
             'dataset of 5000 images, while the second model used chemical properties guidelines from US EPA '
             'and WHO. The third model was trained on a dataset with over 6 million rows, providing reliable '
-            'water classification results. Made by Sagar Mondal. Contact me: '
+            'water classification results. Contact me: '
             '<a href="https://www.linkedin.com/in/sagar-mondal-a78720223/" target="_blank">'
             '<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="20" height="20"></a> '
             '<a href="https://github.com/Sagar-Mondal" target="_blank">'
